@@ -1,0 +1,10 @@
+.DS_STORE
+.vscode/
+target/
+.idea/
+.eclipse/
+.settings/
+.projects/
+.projects
+.classpath
+.classpath/

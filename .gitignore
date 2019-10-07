@@ -8,3 +8,4 @@ target/
 .projects
 .classpath
 .classpath/
+*.png

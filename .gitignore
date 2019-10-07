@@ -4,7 +4,7 @@ target/
 .idea/
 .eclipse/
 .settings/
-.projects/
-.projects
+.project/
+.project
 .classpath
 .classpath/
